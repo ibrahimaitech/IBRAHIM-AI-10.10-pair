@@ -1,0 +1,22 @@
+{
+    "name": "FLASH-MD Pairing",
+    "description": "FLASH-MD WA bot, Created by France King",
+    "logo": "https://telegra.ph/file/5cd90362ad7c6cbb60069.jpg",
+    "repository": "https://github.com/franceking1/Flash-Md-Session",
+    "keywords": ["FlashMd"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
