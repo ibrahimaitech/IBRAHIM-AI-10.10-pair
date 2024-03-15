@@ -57,26 +57,24 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: '' + b64data });
 
                let FLASH_MD_TEXT = `
-*_Pair Code for FLASH-MD Connected_*
-*_Made With 🤍_*
-*By France King*
+*_Pair Code for IBRAHIM-TECH Connected_*
+*_Made With 🔱_*
+*By IBRAHIM ADAMS*
 ______________________________________
 ╔════◇
-║ *『 THANKS FOR CHOOSING FLASH-MD 』*
+║ *『 THANKS FOR CHOOSING IBRAHIM-TECH 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╰═════════════⊷
 ╔═════◇
 ║  『••• FOR HELP VISIT•••』
-║❒ *Instagram:* _https://instagram.com/france.king1_
-║❒ *Owner:* _https://wa.me/254757835036_
-║❒ *Repo:* _https://github.com/franceking1/Flash-Md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/CtBGmUkwXiA6kGYAyU5MaX_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P_
+║❒
+║❒ *Owner:* _https://wa.me/25471077266_
+║❒
 ╰═════════════⊷ 
 _____________________________________
 
 _Don't Forget To Give a Star To My Repo_`
- await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
+ await Pair_Code_By_France_King.sendMessage(Pair_Code_By_Ibrahim_Tech.user.id,{text:IBRAHIM_TECH_TEXT},{quoted:session})
  
 
         await delay(100);
@@ -95,6 +93,6 @@ _Don't Forget To Give a Star To My Repo_`
          }
         }
     }
-    return await FLASH_MD_PAIR_CODE()
+    return await IBRAHIM_TECH_PAIR_CODE()
 });
 module.exports = router
