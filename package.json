@@ -6,9 +6,9 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node Flash-Md.js"
+    "start": "node Gifted-Tech.js"
   },
-  "author": "King Ibrahim",
+  "author": "GiftedTech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
