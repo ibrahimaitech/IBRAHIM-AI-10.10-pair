@@ -60,18 +60,21 @@ router.get('/', async (req, res) => {
 	
 				   let IBRAHIM_TECH_TEXT = `
 *_Qr Code By Ibrahim King_*
-*_Made With 🤍_*
+*_Made With 🔱_*
 ______________________________________
 ╔════◇
-║ *『  IBRAHIM-TECH OFFICIAL 』*
-║ YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT
-╰═════════════⊷
+║ *『 IBRAHIM-TECH OFFICIAL 』*
+║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
+╚══════════════════════╝
 ╔═════◇
-║  『••• CONTACT THE OWNER 👇👇•••』
-║❒ *Name:* IBRAHIM ADAMS
-║❒ *Owner:* https://wa.me/message/74F2PC4JA4F3P1
-║❒ *Group:* https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj
-╰═════════════⊷
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _https://wa.me/message/74F2PC4JA4F3P1_
+║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
+║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main_
+║❒ *WaGroup:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
+║❒ *WaChannel:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
+║❒ *Plugins:* _https://github.com/Ibrahimaitech/Ibrahim-bot-md-plugins_
+╚══════════════════════╝ 
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
